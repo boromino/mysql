@@ -1,4 +1,4 @@
-FROM mysql
+FROM mysql:5.5
 
 MAINTAINER Richard Papp "contact@boromino.com"
 
